@@ -1,0 +1,16 @@
+var fovArray = [];
+    function addToFOV(t,h,v){
+            fovArray.push([]);
+            // fovArray = [ [] ]   1
+            // fovArray[0].lenth = 0
+            fovArray[fovArray.length - 1].push(t);
+            // fovArray = [ [0.123] ]  1
+            // fovArray[0].lenth = 1
+            fovArray[fovArray.length - 1].push(h);
+            // fovArray = [ [0.123, 32] ]  1
+            // fovArray[0].lenth = 2
+            fovArray[fovArray.length - 1].push(v);
+            // fovArray = [ [0.123, 32, 65] ]  1
+            // fovArray[0].lenth = 3
+            console.log(fovArray)
+    }

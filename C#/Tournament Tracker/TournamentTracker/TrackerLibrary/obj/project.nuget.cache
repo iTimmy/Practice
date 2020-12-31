@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZrzGa0aEmbcFjFr9Fh3sXVrG8t5W4njDAL6/d+sgIcVTZrsp1clXZUUu6r6cvK2u566GT7eochcolTIr0ipd/Q==",
+  "success": true,
+  "projectFilePath": "I:\\C0D3\\Online CodeAlongs\\C#\\Tournament Tracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Music Account\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Music Account\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
