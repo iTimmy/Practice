@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+echo "This is my first shell script."
+
+function run() {
+	if [ -e /etc/shadow ];
+	then
+		echo "It exists."
+	else
+		echo "The file does not exist"
+}
+
